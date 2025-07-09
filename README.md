@@ -1,5 +1,18 @@
-# 👨‍💻 About Me:
-🔭 I’m currently working on **an e-commerce paltform and a few academic software projects**<br>🌱 I’m learning more about **AI integration, microservices, and API development**<br>💬 Ask me about **Python (Django), PHP (Laravel), MySQL, and Rest APIs**<br>📫 Reach me at **darbenlamonte@gmail.com**<br>⚡ Fun fact: I love learning and exploring new technologies and programming tools.
+<h1 align="center">Hi there, I'm Darben 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=435&lines=Aspiring+Web+Developer;Tech+Explorer+%7C+Problem+Solver;Passionate+about+Learning+and+Building" alt="Typing SVG" />
+</p>
+
+---
+
+### 📌 Highlights
+
+- 🔭 Currently working on **an e-commerce platform** and several **academic software projects**
+- 🌱 Exploring **AI integration, microservices, and API development**
+- 💬 Skilled in **Python (Django), PHP (Laravel), MySQL, and REST APIs**
+- 📫 Reach me at **darbenlamonte@gmail.com**
+- ⚡ Fun fact: I love learning and exploring new technologies and programming tools!
 
 <!--
 ## 🌐 Socials:
