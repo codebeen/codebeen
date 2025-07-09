@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **an e-commerce paltform and a few academic software projects**<br>🌱 I’m learning more about **AI integration, microservices, and API development**<br>💬 Ask me about **Python, Django, PHP (Laravel), MySQL, APIs, or tech research**<br>📫 Reach me at **darbenlamonte@gmail.com**<br>⚡ Fun fact: I love learning and exploring new technologies and programming tools.
+🔭 I’m currently working on **an e-commerce paltform and a few academic software projects**<br>🌱 I’m learning more about **AI integration, microservices, and API development**<br>💬 Ask me about **Python (Django), PHP (Laravel), MySQL, and Rest APIs**<br>📫 Reach me at **darbenlamonte@gmail.com**<br>⚡ Fun fact: I love learning and exploring new technologies and programming tools.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=codebeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=codebeen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codebeen&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
