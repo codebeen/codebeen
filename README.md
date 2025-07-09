@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=435&lines=Aspiring+Web+Developer;Tech+Explorer+%7C+Problem+Solver;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
 </p>
 
-<!--
-### 📌 Highlights
--->
+
+## 👨‍💻 About Me
+
 - 🔭 Currently working on **an e-commerce platform** and several **academic software projects**
 - 🌱 Exploring **AI integration, microservices, and API development**
 - 💬 Skilled in **Python (Django), PHP (Laravel), MySQL, and REST APIs**
