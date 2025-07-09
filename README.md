@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on **an e-commerce paltform and a few academic software projects**<br>🌱 I’m learning more about **AI integration, microservices, and API development**<br>💬 Ask me about **Python, Django, PHP (Laravel), MySQL, APIs, or tech research**<br>📫 Reach me at **darbenlamonte@gmail.com**<br>⚡ Fun fact: I love learning and exploring new technologies and programming tools.
 
 
