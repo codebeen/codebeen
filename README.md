@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Darben 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=435&lines=Web+Developer;Backend+Developer;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=435&lines=Web+Developer;Backend+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 
