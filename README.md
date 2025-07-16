@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Darben 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=435&lines=Aspiring+Web+Developer;Backend+Developer;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&width=435&lines=Web+Developer;Backend+Developer;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 
@@ -22,7 +22,7 @@
 Here are the technologies and tools I frequently use to build and deploy modern web applications.
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
