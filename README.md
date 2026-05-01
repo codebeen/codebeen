@@ -9,9 +9,10 @@
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-darbenlamonte%40gmail.com-00BFFF?style=flat-square&logo=gmail&logoColor=white)](mailto:darbenlamonte@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-codebeen-181717?style=flat-square&logo=github)](https://github.com/codebeen)
-  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darbenlamonte@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://darben.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darben/)
+
 </div>
 
 
@@ -34,6 +35,14 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
+
+## Current Focus
+
+- Building a scalable **e-commerce platform** with modern architecture
+- Developing **academic software solutions** for educational institutions
+- Exploring **AI/ML integration** in web applications
+- Implementing **microservices architecture** and RESTful APIs
+- Continuously learning and adopting emerging technologies
 
 ## Technology Stack
 
@@ -76,35 +85,10 @@ me.say_hi()
 
 </details>
 
-## Current Focus
-
-- Building a scalable **e-commerce platform** with modern architecture
-- Developing **academic software solutions** for educational institutions
-- Exploring **AI/ML integration** in web applications
-- Implementing **microservices architecture** and RESTful APIs
-- Continuously learning and adopting emerging technologies
-
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebeen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebeen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebeen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebeen&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ## Let's Connect
@@ -117,14 +101,6 @@ I'm always interested in collaborating on innovative projects and connecting wit
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://darben.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darben/)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codebeen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  <p>⭐️ From <a href="https://github.com/codebeen">codebeen</a> | Made with ❤️</p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer" width="100%"/>
